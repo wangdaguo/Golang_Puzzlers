@@ -27,7 +27,7 @@ func genCalculator(op operate) calculateFunc {
 	}
 }
 
-func main() {
+func main1() {
 	// 方案1。
 	x, y := 12, 23
 	op := func(x, y int) int {
